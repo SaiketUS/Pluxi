@@ -27,8 +27,3 @@ npm install pluxi
 
 
 
-<code>
-yarn add pluxi
-</code>
-
-
