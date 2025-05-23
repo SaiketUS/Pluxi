@@ -25,9 +25,10 @@ Built for performance, designed for flexibility, and crafted for developers who 
 ```bash
 npm install pluxi
 
-**Using yarn:**
 
-```bash
+
+<code>
 yarn add pluxi
+</code>
 
 
