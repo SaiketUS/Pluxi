@@ -20,9 +20,14 @@ Built for performance, designed for flexibility, and crafted for developers who 
 
 ## 📦 Installation
 
+**Using npm:**
+
 ```bash
 npm install pluxi
 
+**Using yarn:**
+
 ```bash
 yarn add pluxi
+
 
