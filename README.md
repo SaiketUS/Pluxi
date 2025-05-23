@@ -22,6 +22,6 @@ Built for performance, designed for flexibility, and crafted for developers who 
 
 ```bash
 npm install pluxi
-# or
-yarn add pluxi-ui
+```bash
+yarn add pluxi
 
